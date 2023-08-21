@@ -26,7 +26,7 @@ export default function SobreMim() {
                 A mágica de transformar linhas de código em interfaces incríveis e servidores poderosos me fascina todos os dias.
             </p>
             <p className={styles.paragrafo}>
-                No ensino superior, após concluir o curso de Direito em 2017, ingressei um tempo depois na jornada do desenvolvimento e não consegui mais parar. Hoje dedico-me integralmente para o mundo da tecnologia e desenvolvimento, com foco sempre em otimizar os projetos faço parte.
+                No ensino superior, após concluir o curso de Direito em 2017, ingressei um tempo depois na jornada do desenvolvimento e não consegui mais parar. Hoje dedico-me integralmente para o mundo da tecnologia e desenvolvimento, com foco sempre em otimizar os projetos que faço parte.
             </p>
             <p className={styles.paragrafo}>
                 Com meu primeiro estágio voluntário, aprendo diariamente boas práticas da programação, gestão de prazos e resolução dos problemas diários que um dev enfrenta.
